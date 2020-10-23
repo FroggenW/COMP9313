@@ -1,8 +1,8 @@
 //Author : Chang Wang
 //Finished in: 18/11/2019
-//In this assignment I used spark to implement solution.
-//There is no error in my code and it could obtain the correct output.
-//The output is formatted correctly as described, and it has been sorted by length.
+//In this assignment I used spark to implement solution
+//There is no error in my code and it could obtain the correct output
+//The output is formatted correctly as described, and it has been sorted by length
 //N2,3,N0-N2
 //N1,4,N0-N1
 //N3,6,N0-N1-N3

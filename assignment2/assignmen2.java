@@ -1,4 +1,4 @@
-//Author : Chang Wang
+//Author : Chang Wang.
 //Finished in: 18/11/2019
 //In this assignment I used spark to implement solution
 //There is no error in my code and it could obtain the correct output
